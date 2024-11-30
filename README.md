@@ -9,16 +9,17 @@ User-Friendly Interface: A dashboard displaying insights and a form to submit em
 
 
 Technologies Used
-Python (Flask for web app backend)
-Machine Learning (Random Forest model)
-HTML/CSS/JavaScript (For frontend and user interaction)
-MongoDB Charts (For data visualization)
-Heroku (For hosting the web app)
+1.Python (Flask for web app backend)
+2.Machine Learning (Random Forest model)
+3.HTML/CSS/JavaScript (For frontend and user interaction)
+4.MongoDB Charts (For data visualization)
+5.Heroku (For hosting the web app)
+
+
 Setup Instructions
 To run the project locally:
 
 Clone the repository:
-
 1. git clone (https://github.com/AwadeYuvraj/Attrition-System)
 2. cd attrition_ML
 3. Install the required dependencies:pip install -r requirements.txt
