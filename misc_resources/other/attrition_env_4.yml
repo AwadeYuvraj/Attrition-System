@@ -1,0 +1,22 @@
+name: attrition_env_4
+# Install: conda env create --file misc_resources/other/attrition_env_4.yml
+# Update:  conda env update --file misc_resources/other/attrition_env_4.yml --prune
+dependencies:
+# removed tensorflow, pyspark
+  - python=3.6
+  - numpy
+  - pandas
+  - requests
+  - scipy
+  - scikit-learn
+  - py4j
+  - jupyter_client
+  - nb_conda_kernels
+  - matplotlib
+  - keras
+  - ipykernel
+  # Added the below on top of assignment base file
+  - flask
+  - sqlalchemy
+  - flask-sqlalchemy
+  - psycopg2

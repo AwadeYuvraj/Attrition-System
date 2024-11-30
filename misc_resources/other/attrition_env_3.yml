@@ -1,0 +1,23 @@
+name: attrition_env_3
+# Install: conda env create --file misc_resources/other/attrition_env_3.yml
+# Update:  conda env update --file attrition_env_3.yml --prune
+dependencies:
+  - python=3.6
+  - gunicorn
+  - numpy
+  - pandas
+  - requests
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - py4j
+  - pyspark
+  - jupyter_client
+  - nb_conda_kernels
+  - matplotlib
+  - keras
+  - ipykernel
+  - flask
+  - sqlalchemy
+  - flask-sqlalchemy
+  - psycopg2

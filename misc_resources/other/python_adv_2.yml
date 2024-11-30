@@ -1,0 +1,18 @@
+name: PythonAdv_2
+# Install: conda env create --file misc_resources/other/python_adv_2.yml
+# Update:  conda env update --file misc_resources/other/python_adv_2.yml --prune
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - requests
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - py4j
+  - pyspark
+  - jupyter_client
+  - nb_conda_kernels
+  - matplotlib
+  - keras
+  - ipykernel
