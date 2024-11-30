@@ -17,7 +17,7 @@ To run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/SanabuW/attrition_ML.git
+git clone (https://github.com/AwadeYuvraj/Attrition-System)
 cd attrition_ML
 Install the required dependencies:
 
