@@ -6,6 +6,8 @@ Employee Attrition Prediction: Enter employee data to predict whether an employe
 Data Visualization: Interactive charts to explore the relationship between employee features (e.g., job satisfaction, education level) and attrition risk.
 Machine Learning Model: Uses a Random Forest model trained on the IBM HR Analytics dataset.
 User-Friendly Interface: A dashboard displaying insights and a form to submit employee data for prediction.
+
+
 Technologies Used
 Python (Flask for web app backend)
 Machine Learning (Random Forest model)
@@ -17,15 +19,11 @@ To run the project locally:
 
 Clone the repository:
 
-git clone (https://github.com/AwadeYuvraj/Attrition-System)
-cd attrition_ML
-Install the required dependencies:
-
-pip install -r requirements.txt
-Run the app:
-
-python app.py
-Open the app in your browser at http://127.0.0.1:5000.
+1. git clone (https://github.com/AwadeYuvraj/Attrition-System)
+2. cd attrition_ML
+3. Install the required dependencies:pip install -r requirements.txt
+4.Run the app:python app.py
+5. Open the app in your browser at http://127.0.0.1:5000.
 
 Usage
 Prediction Form: Navigate to the "Attrition Predictor" page to input employee data and receive a prediction.
