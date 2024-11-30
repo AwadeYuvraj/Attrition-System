@@ -33,3 +33,10 @@ Dashboard: View visual insights into the dataset and understand correlations bet
 Data
 The model is trained on the IBM HR Analytics dataset available here.
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+
+Photos: ![image](https://github.com/user-attachments/assets/5c66529f-da1c-4ff9-a964-82075561e120)
+![image](https://github.com/user-attachments/assets/52674cc5-38dc-4185-b265-8931c48c8b41)
+![image](https://github.com/user-attachments/assets/e5aa5b29-b101-4158-9495-268e5b184b3e)
+
+
